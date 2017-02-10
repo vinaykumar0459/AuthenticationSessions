@@ -1,0 +1,26 @@
+{
+  "name": "mongoose",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "repository": "test",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "mongoose",
+    "database"
+  ],
+  "author": "vinay",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.16.0",
+    "browserify": "^14.0.0",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.1",
+    "express-session": "^1.15.0",
+    "mongodb": "^2.2.22",
+    "multer": "^1.3.0",
+    "pug": "^2.0.0-beta11"
+  }
+}
